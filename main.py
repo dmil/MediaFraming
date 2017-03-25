@@ -26,7 +26,7 @@ query = "SELECT \
             FROM  \
             public.trayvon_text;"
             
-raw_data = query_db(host='localhost', dbname='trayvon2', username='dhrumil', password='mehtad2004')
+raw_data = query_db(host='localhost', dbname='trayvon2', username='dhrumil', password='xxxxxx')
 
 ### STEP 2 - CLEAN DATA
 #################################################
